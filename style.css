@@ -1,0 +1,89 @@
+body{
+	background:url('images/pond.jpg') no-repeat center center fixed;
+	color:white;
+	font-family:pacifico;
+
+}
+
+#wrapper{
+width:90%;
+height:auto;
+background:transparent;
+margin:0 auto;
+padding:12px;
+color:white;
+}
+
+#heading{
+	font-size: 36px;
+	
+}
+
+h1{
+
+}
+
+#Frogs{
+
+}
+
+#one{
+	
+	width:28%;
+	height:auto;
+	padding:12px;
+	display:inline-block;
+
+}
+
+#two{
+	
+    width:33.3%;
+	height:auto;
+	padding:12px;
+	display:inline-block;
+
+}
+
+#three{
+	
+    width:33.3%;
+	height:auto;
+	padding:12px;
+	display:inline-block;
+
+}
+
+#one #featured-image{
+
+	background:url('images/kermitthefrog.jpg')center center;
+	width:200px;
+	height:200px;
+	margin:0 auto;
+	border-radius:200px;
+
+}
+
+#two #featured-image{
+
+	background:url('images/pepe.jpg')center center;
+	width:200px;
+	height:200px;
+	margin:0 auto;
+	border-radius:200px;
+}
+
+#three #featured-image{
+
+	background:url('images/keroppi.jpg')center center;
+	width:200px;
+	height:200px;
+	margin:0 auto;
+	border-radius:200px;
+
+}
+
+h2{
+
+}
+
