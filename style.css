@@ -1,8 +1,7 @@
 body{
 	background:url('images/pond.jpg') no-repeat center center fixed;
 	color:white;
-	font-family:pacifico;
-
+	font-family: 'Pacifico', cursive;
 }
 
 #wrapper{
